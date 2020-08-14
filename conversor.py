@@ -1,5 +1,5 @@
 def conversor(tipo_pesos, valor_dolar):
-    pesos = input("¿Cuántos pesos " + tipo_pesos +" tienes?: ")
+    pesos = input("¿Cuántos pesos " + tipo_pesos + " tienes?: ")
     pesos = float(pesos)
     USD = pesos / valor_dolar
     USD = round(USD, 2)
@@ -16,7 +16,7 @@ Bienvenido al conversor de monedas 😁
 
 Elige una opción: """
 
-opcion = input(menu)
+opcion = int(input(menu))
 
 if opcion == 1:
     conversor("colombianos", 3875)
