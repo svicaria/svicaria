@@ -18,6 +18,3 @@ Encontrarás en este contenido:
 - for.py que explica los ejercicios del for
 
 </body>
-```
-
-###End
