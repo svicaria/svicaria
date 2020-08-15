@@ -7,14 +7,17 @@ Como versión de prueba y con el ánimo de ayudar a otros estudiantes se publica
 <h1>
 Contenido
 </h1>
+
 <body>
 Encontrarás en este contenido:
-- conversor.py con la calculadora completa con varias monedas
-- conversor_a_cop.py con la calculadora de USD a COP
-- funciones.py donde se explican funciones básicas de python
-- condicional.py para que entiendas if, elif y else a profundidad
-- palindromo.py donde se explica el algoritmo de base para identificar palíndromos (palabras que se escriben igual desde el inicio hasta el final y del final hasta el inicio, como *"kayak"*)
-- bucles.py para entender el while en pyhton
-- for.py que explica los ejercicios del for
+- conversor.py con la calculadora completa con varias monedas<br/>
+- conversor_a_cop.py con la calculadora de USD a COP<br/>
+- funciones.py donde se explican funciones básicas de python<br/>
+- condicional.py para que entiendas if, elif y else a profundidad<br/>
+- palindromo.py donde se explica el algoritmo de base para identificar palíndromos (palabras que se escriben igual desde el inicio hasta el final y del final hasta el inicio, como *"kayak"*)<br/>
+- bucles.py para entender el while en pyhton<br/>
+- for.py que explica los ejercicios del for<br/>
+- Se agregarán archivos en la medida en la que se avance con el curso
 
 </body>
+```
