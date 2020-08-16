@@ -1,5 +1,5 @@
 objetivo = int(input('Escribe un número para calcular su raíz cuadrada: '))
-epsilon = 0.01
+epsilon = 0.001
 bajo = 0.0
 alto = max(1.0, objetivo)
 respuesta = (alto + bajo) / 2
