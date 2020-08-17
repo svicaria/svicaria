@@ -44,17 +44,17 @@ opcion = int(input(f'Elija el algoritmo de ordenamiento para buscar la raiz cuad
 
 if opcion == 1:
     print('1. Enumeracion Exhaustiva')
-    numero = int(input('* Digite un numero: '))
+    numero = int(input('* Digite un numero para calcular su raíz cuadrada: '))
     enumeracion_exhaustiva(numero)
 elif opcion == 2:
     print('2. Aproximacion')
-    numero = int(input('* Digite un numero: '))
-    parametro_epsilon = float(input('* Digite un epsilon: '))
+    numero = int(input('* Digite un numero para calcluar su raíz cuadrada: '))
+    parametro_epsilon = float(input('* Digite un epsilon ( valor de márgen de error): '))
     aproximacion(numero,parametro_epsilon)
 elif opcion == 3:
     print('3. Busqueda Binaria')
     numero = int(input('* Digite un numero: '))
-    parametro_epsilon = float(input('* Digite un epsilon: '))
+    parametro_epsilon = float(input('* Digite un epsilon (valor de márgen de error): '))
     busqueda_binaria(numero,parametro_epsilon)
 else:
     print('Opcion no valida')
